@@ -1,0 +1,5 @@
+import telebot
+
+bot = telebot.TeleBot('5934289974:AAH5l1OTjLlGPN2NLr4adYCYfEPcz9X0cD0')
+
+@bot.massage_handlers
