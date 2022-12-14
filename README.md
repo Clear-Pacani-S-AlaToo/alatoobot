@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Here+is+Ala-Too+help+bot!)](https://git.io/typing-svg)
 
-As you can seem by using only Python you can create a unique telegram bot, which will help you automate the process of any enterprise.
+As you can see by using only Python you can create a unique telegram bot, which will help you automate the process of any enterprise.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrgmvtmr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
